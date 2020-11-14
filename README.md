@@ -4,7 +4,7 @@ CoreML with Azure Custom Vision Service
 This sample "CustomVision" is a demo of the new iOS 11 Vision framework and CoreML, using a model
 trained with Azure's Custom Vision Service.
 
-This [introduction to CoreML and the custom vision service](https://azure.microsoft.com/en-us/blog/custom-vision-service-introduces-classifier-export-starting-with-coreml-for-ios-11/)
+This [introduction to CoreML and the custom vision service](https://azure.microsoft.com/blog/custom-vision-service-introduces-classifier-export-starting-with-coreml-for-ios-11/?WT.mc_id=academic-0000-jabenn)
 explains the process and links to the [Swift source](https://github.com/Azure-Samples/cognitive-services-ios-customvision-sample)
 that has been ported to C# with Xamarin.
 
